@@ -1,7 +1,7 @@
 name: esamek
 favicon: null
-layout_spectrum: 0.4801265522837639
-typography_spectrum: 0.2821419097017497
+layout_spectrum: 0.6839
+typography_spectrum: 0.66226
 title: "Evan Samek's Grid.io Experimentation"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5869063038844615
-  lightness: 0.48050961876288056
-  saturation: 0.3267537180799991
-  rhythmicContrast: 0.8679507495835423
+    - '#ffffff'
+    - '#15141c'
+    - '#a37733'
+    - '#0c425f'
+    - '#a8a7aa'
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
