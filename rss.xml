@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[esamek]]></title>
+        <description><![CDATA[esamek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 16:41:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Wedding Invites]]></title>
+            <description><![CDATA[<article><h1>Our Wedding Invites</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd696a8-6e9c-48c8-98a1-1d3db737e309.png"></article>]]></description>
+            <link>undefinedour-wedding-invites/index.html</link>
+            <guid isPermaLink="false">432b811f-f302-4c13-af97-38fb46d22174</guid>
+            <pubDate>Wed, 30 Dec 2015 16:41:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
